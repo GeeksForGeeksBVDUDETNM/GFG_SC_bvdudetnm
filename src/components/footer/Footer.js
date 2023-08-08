@@ -61,8 +61,8 @@ function Footer() {
                     <li className="list-item">
                       <i className="bi bi-geo-alt-fill"></i>
                       <a href="https://www.google.com/search?q=bharati%20vidyapeeth%20deemed%20university%20navi%20mumbai&rlz=1C1CHBF_enIN1022IN1022&oq=bha&aqs=chrome.1.69i57j35i39l2j0i67j46i67j46i67i175i199l2j69i60.4777j0j7&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=AJOqlzVAkVQFAGfMSPH5N9rZ4jipRDLc7w:1676999490716&rflfq=1&num=10&rldimm=2392446290558875160&lqi=CjBiaGFyYXRpIHZpZHlhcGVldGggZGVlbWVkIHVuaXZlcnNpdHkgbmF2aSBtdW1iYWlIoLa-gdW2gIAIWkYQABABEAIQAxgAGAEYAhgDGAQYBSIwYmhhcmF0aSB2aWR5YXBlZXRoIGRlZW1lZCB1bml2ZXJzaXR5IG5hdmkgbXVtYmFpkgEKdW5pdmVyc2l0eZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSbGFYSlFOalozUlJBQqoBLBABKigiJGJoYXJhdGkgdmlkeWFwZWV0aCBkZWVtZWQgdW5pdmVyc2l0eSgA&ved=2ahUKEwi71Lr3jaf9AhURBt4KHXiSDIQQvS56BAgTEAE&sa=X&rlst=f#rlfi=hd:;si:2392446290558875160;mv:[[19.032192294255392,73.0626874537338],[19.029321984512368,73.0568348736633],null,[19.03075714558362,73.05976116369855],18]">
-                        Bharati Vidyapeeth College of Engineering and
-                        Technology, Off-Campus Navi Mumbai, Kharghar (410 210)
+                        Bharati Vidyapeeth Deemed University Department of Engineering and
+                        Technology, Navi Mumbai, Kharghar (410 210)
                       </a>
                     </li>
                   </ul>
